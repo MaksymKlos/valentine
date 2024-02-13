@@ -84,6 +84,10 @@ h3{
   text-align: center;
 }
 
+#fifth img{
+  width: 100%;
+}
+
 .disable{
   display: none;
 }
